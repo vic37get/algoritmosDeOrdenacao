@@ -1,0 +1,4 @@
+,Algoritmo,Comparações,Modo,Quantidade,Tempo de Execução
+0,BubbleSort,24990001.0,aleatorio,5000.0,6853.0
+1,BubbleSort,24990001.0,aleatorio,5000.0,6417.0
+2,BubbleSort,24990001.0,aleatorio,5000.0,6851.0
